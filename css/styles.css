@@ -1,0 +1,45 @@
+body {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f3f5ec;
+  color: #fff;
+}
+
+header {
+  background: tomato;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.container-main {
+  margin-bottom: 20px;
+}
+
+main {
+  background: rgba(17, 81, 121, 0.728);
+  color:lightyellow;
+  padding: 20px 0;
+}
+
+aside {
+  background: blue;
+  color: white;
+  padding: 20px 0;
+}
+
+.cards {
+  margin-bottom: 20px;
+}
+
+.cards > div {
+  background: rebeccapurple;
+  color: #fff;
+  padding: 20px;
+}
+
+footer {
+  background:#1e1e1e;
+  padding: 20px 0;
+  color: white;
+}
